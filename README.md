@@ -1,0 +1,1 @@
+# PotatoMaladyAnalyzer_VGG16
